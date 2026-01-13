@@ -1,0 +1,14 @@
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.exe
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.deps.json
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.runtimeconfig.json
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.dll
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.pdb
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.AssemblyInfoInputs.cache
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.AssemblyInfo.cs
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.csproj.CoreCompileInputs.cache
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.dll
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\refint\LegendsOfValor-TheGuildTrials.dll
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.pdb
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.genruntimeconfig.cache
+D:\softuni\exam\LegendsOfValor-TheGuildTrials-Skeleton\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\ref\LegendsOfValor-TheGuildTrials.dll
