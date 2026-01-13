@@ -22,7 +22,3 @@ A C# console-based RPG game where the player completes guild trials by fighting 
 
 ## Purpose
 This is a personal project created to practice C# programming, object-oriented design, and game logic.
-
-## Screenshots
-(You can add console screenshots here later)
-
